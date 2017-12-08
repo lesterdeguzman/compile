@@ -7,8 +7,8 @@ import static java.util.Arrays.fill;
 
 
 public class CompilationVina {
-
-	public static void MEX() {
+		//862A
+	public static void MahmoudAndEhabAndTheMEX() {
 		 
 	        int     n, x, 
 	                mex      = -1, req;
